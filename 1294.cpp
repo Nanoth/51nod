@@ -11,10 +11,6 @@ using namespace std;
 #define LL		long long
 #define mset(a,b)	memset(a,b,sizeof a)
 #define scan(n)	scanf("%d",&n)
-#define lson    root<<1,l,m
-#define rson    root<<1|1,m+1,r
-#define ls      root<<1
-#define rs      root<<1|1
 const int maxn = 100006;
 const int mod = 1000000007;
 

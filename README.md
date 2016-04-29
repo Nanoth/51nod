@@ -1,2 +1,1 @@
-# 51nod
-code for 51nod
+acm-icpc
